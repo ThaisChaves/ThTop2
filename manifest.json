@@ -26,8 +26,8 @@
       "type": "image/png"
     }
   ],
-  "name": "My Shop",
-  "short_name": "MyShop",
+  "name": "Th Top2",
+  "short_name": "ThTop2",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
