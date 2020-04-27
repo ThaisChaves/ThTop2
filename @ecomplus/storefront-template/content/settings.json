@@ -1,14 +1,14 @@
 {
-  "primary_color": "#5566ec",
+  "primary_color": "#ec5570",
   "theme": {
     "bootswatch": "cosmo"
   },
-  "bg_color": "#040316",
+  "bg_color": "#fa213b",
   "logo": "/img/uploads/sendo-doador-ou-nao.png",
   "name": "ThThaís",
   "short_name": "Th",
   "favicon": "/img/uploads/doacao-sangue.png",
-  "secondary_color": "#5f0e1f",
+  "secondary_color": "#f31428",
   "icon": "/img/uploads/doacao-sangue.png",
   "description": "Loja da Thais",
   "large_icon": "/img/uploads/doacao-sangue.png"
