@@ -26,12 +26,12 @@
       "type": "image/jpeg"
     }
   ],
-  "name": "Th Top2",
-  "short_name": "ThTop2",
+  "name": "Store name",
+  "short_name": " Enter the store's short name here. It will be shown for example at the bottom of the page.",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "My PWA Shop",
+  "description": "Briefly describe your store to your customers.",
   "background_color": "#ffffff",
   "theme_color": "#367ae0"
 }
