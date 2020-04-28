@@ -6,7 +6,7 @@
     "bootswatch": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/open-576209_640.png",
   "name": "Th Top2",
   "short_name": "ThTop2",
   "lang": "pt_br",
@@ -15,8 +15,8 @@
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
   "secondary_color": "#afa8ec",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/pensador.jpg",
   "store_id": 1011,
   "description": "My PWA Shop",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/pensador.jpg"
 }
