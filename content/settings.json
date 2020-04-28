@@ -5,7 +5,7 @@
   "theme": {
     "bootswatch": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#f01745",
   "logo": "/img/uploads/open-576209_640.png",
   "name": "Store name",
   "short_name": " Enter the store's short name here. It will be shown for example at the bottom of the page.",
@@ -14,7 +14,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#afa8ec",
+  "secondary_color": "#7a1879",
   "icon": "/img/uploads/pensador.jpg",
   "store_id": 1011,
   "description": "Briefly describe your store to your customers.",
