@@ -32,6 +32,6 @@
   "display": "standalone",
   "start_url": ".",
   "description": "Briefly describe your store to your customers.",
-  "background_color": "#ffffff",
+  "background_color": "#f01745",
   "theme_color": "#367ae0"
 }
