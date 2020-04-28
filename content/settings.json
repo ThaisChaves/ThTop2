@@ -7,8 +7,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/open-576209_640.png",
-  "name": "Th Top2",
-  "short_name": "ThTop2",
+  "name": "Store name",
+  "short_name": " Enter the store's short name here. It will be shown for example at the bottom of the page.",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -17,6 +17,6 @@
   "secondary_color": "#afa8ec",
   "icon": "/img/uploads/pensador.jpg",
   "store_id": 1011,
-  "description": "My PWA Shop",
+  "description": "Briefly describe your store to your customers.",
   "large_icon": "/img/uploads/pensador.jpg"
 }
