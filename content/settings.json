@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#367ae0",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "lux"
   },
   "bg_color": "#f01745",
   "logo": "/img/uploads/open-576209_640.png",
