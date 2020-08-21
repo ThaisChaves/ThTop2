@@ -1,9 +1,9 @@
 {
   "store_id": 1011,
-  "name": "Clean_Theme",
+  "name": "Dark_Theme",
   "domain": "keen-pasteur-596ea6.netlify.app/",
-  "short_name": "Clean_Theme",
-  "description": "Clean",
+  "short_name": "Dark_Theme",
+  "description": "Dark",
   "primary_color": "#e83e8c",
   "secondary_color": "#393e46",
   "bg_color": "#ffffff",
