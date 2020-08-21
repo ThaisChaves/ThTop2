@@ -1,37 +1,37 @@
 {
   "icons": [
     {
-      "src": "/icon_512x512.a82006e980be763e0f3110a6513bea3a.jpeg",
+      "src": "/icon_512x512.a0ba80003b3cf0f275a47885c5bf31c0.png",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "image/png"
     },
     {
-      "src": "/icon_384x384.185b1f3b8f354584106d74375edaf607.jpeg",
+      "src": "/icon_384x384.0240fb21e4a86ec97b70a10a0be82bb6.png",
       "sizes": "384x384",
-      "type": "image/jpeg"
+      "type": "image/png"
     },
     {
-      "src": "/icon_192x192.d0f306b2cacff5cdb8040a2aa6c836c9.jpeg",
+      "src": "/icon_192x192.d3b4a59e45ac4460fb8bca55139e47f4.png",
       "sizes": "192x192",
-      "type": "image/jpeg"
+      "type": "image/png"
     },
     {
-      "src": "/icon_128x128.567dfb9da47b59bab01420c2664523dd.jpeg",
+      "src": "/icon_128x128.c58f8562c132df87ecb10c0598db083c.png",
       "sizes": "128x128",
-      "type": "image/jpeg"
+      "type": "image/png"
     },
     {
-      "src": "/icon_96x96.7ebd8619865b541ced8345514bb58b9c.jpeg",
+      "src": "/icon_96x96.570e1710e5824f55c3c7a5c606cbfc9c.png",
       "sizes": "96x96",
-      "type": "image/jpeg"
+      "type": "image/png"
     }
   ],
-  "name": "Store name",
-  "short_name": " Enter the store's short name here. It will be shown for example at the bottom of the page.",
+  "name": "Clean_Theme",
+  "short_name": "Clean_Theme",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "Briefly describe your store to your customers.",
-  "background_color": "#f01745",
-  "theme_color": "#367ae0"
+  "description": "Clean",
+  "background_color": "#ffffff",
+  "theme_color": "#e83e8c"
 }
