@@ -1,23 +1,23 @@
 {
-  "store_id": 1011,
-  "name": "Clean_Theme",
-  "domain": "keen-pasteur-596ea6.netlify.app/",
-  "short_name": "Clean_Theme",
-  "description": "Clean",
+  "domain": "vibrant-mclean-493feb.netlify.app/",
+  "currency_symbol": "R$",
   "primary_color": "#e83e8c",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/tudy-baby-5-.png",
+  "name": "Dark_Theme",
+  "short_name": "Dark_Theme",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1011,
+  "description": "Dark",
+  "large_icon": "/img/large-icon.png"
 }
