@@ -26,12 +26,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Clean_Theme",
-  "short_name": "Clean_Theme",
+  "name": "Dark_Theme",
+  "short_name": "Dark_Theme",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "Clean",
+  "description": "Dark",
   "background_color": "#ffffff",
   "theme_color": "#e83e8c"
 }
