@@ -1,13 +1,13 @@
 {
   "domain": "vibrant-mclean-493feb.netlify.app/",
   "currency_symbol": "R$",
-  "primary_color": "#e83e8c",
+  "primary_color": "#ff0000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/copia-de-tudy-baby-tamanho-original-2-.png",
+  "logo": "/img/uploads/copia-de-sem-nome-2-.png",
   "name": "Dark_Theme",
   "short_name": "Dark_Theme",
   "lang": "pt_br",
