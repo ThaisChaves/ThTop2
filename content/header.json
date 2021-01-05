@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Loja demonstrativa. Nenhuma venda será efetivada",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -19,8 +19,8 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 0,
     "full_width": false
   },
-  "search_input": true
+  "search_input": false
 }
