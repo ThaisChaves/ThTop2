@@ -464,13 +464,13 @@
     </url>
   
     <url>
-      <loc>https://vibrant-mclean-493feb.netlify.app//admin/index</loc>
+      <loc>https://vibrant-mclean-493feb.netlify.app//app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://vibrant-mclean-493feb.netlify.app//app/index</loc>
+      <loc>https://vibrant-mclean-493feb.netlify.app//admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
