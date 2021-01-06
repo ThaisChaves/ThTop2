@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "custom-html",
+      "html": "\n<video src=\"/img/uploads/video.mp4\"></video>"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -56,10 +60,6 @@
           "img": "/img/uploads/3.jpg"
         }
       ]
-    },
-    {
-      "type": "custom-html",
-      "html": "\n<video src=\"/img/uploads/video.mp4\"></video>"
     }
   ]
 }
