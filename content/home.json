@@ -59,11 +59,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/VOPhBmJzG9s\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-    },
-    {
-      "type": "custom-html",
-      "html": "\n<video src=\"https://drive.google.com/file/d/156uD1A4pITeOZGTLZW3u7l2HFUQuQk5a/view?usp=sharing\"></video>"
+      "html": "\n<video src=\"/img/uploads/video.mp4\"></video>"
     }
   ]
 }
