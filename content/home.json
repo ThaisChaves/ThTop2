@@ -3,10 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "custom-html",
-      "html": "<img src=\"/img/uploads/chute.webp\" alt=\"Chute na bola\">"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 8000,
       "slides": [
@@ -38,6 +34,10 @@
           "img": "/img/uploads/10.png"
         }
       ]
+    },
+    {
+      "type": "custom-html",
+      "html": "<img src=\"/img/uploads/chute.webp\" alt=\"Chute na bola\">"
     },
     {
       "type": "banners-grid",
