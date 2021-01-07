@@ -8,8 +8,13 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 8000,
       "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/chute.webp"
+        },
         {
           "img": "/img/uploads/8.png",
           "link": "",
