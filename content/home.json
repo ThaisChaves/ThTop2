@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "custom-html",
-      "html": "<img src=\"/img/uploads/futebol.webp\" alt=\"Chute na bola\">"
+      "html": "<img src=\"/img/uploads/chute.webp\" alt=\"Chute na bola\">"
     },
     {
       "type": "banner-slider",
