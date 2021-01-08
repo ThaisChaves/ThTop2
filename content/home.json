@@ -3,23 +3,30 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "custom-html",
-      "html": "<img src=\"/img/uploads/chute.webp\" alt=\"Chute na bola\">"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 8000,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/copia-de-copia-de-banner-demo-dark-3-.png"
+          "img": "/img/uploads/copia-de-copia-de-banner-demo-dark-4-.png"
         }
       ]
     },
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/9.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -40,6 +47,10 @@
       ]
     },
     {
+      "type": "custom-html",
+      "html": "<img src=\"/img/uploads/chute.webp\" alt=\"Chute na bola\">"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -50,6 +61,17 @@
         },
         {
           "img": "/img/uploads/3.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/8.png"
         }
       ]
     }
