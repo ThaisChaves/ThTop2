@@ -24,7 +24,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/9.png"
+          "img": "/img/uploads/banner-demo-dark-2.png"
         }
       ]
     },
@@ -47,10 +47,6 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "<img src=\"/img/uploads/chute.webp\" alt=\"Chute na bola\">"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -71,7 +67,15 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/8.png"
+          "img": "/img/uploads/banner-demo-dark-4.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-demo-dark-1-2-.png"
         }
       ]
     }
