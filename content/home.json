@@ -59,25 +59,6 @@
           "img": "/img/uploads/3.jpg"
         }
       ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-demo-dark-4.png"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-demo-dark-1-2-.png"
-        }
-      ]
     }
   ]
 }
